@@ -58,7 +58,7 @@ load {
 }
 
 .alter-ego::after {
-    content: "\A is Apo11o Program. :)";
+    content: "\A is Apo11o Program's Alter Ego. :)";
     white-space: pre;
     font-size: 12pt;
 }
