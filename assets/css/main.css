@@ -33,7 +33,7 @@ load {
     top: 50%;
     height: 100vh !important;
     width: 100vw !important;
-    background-image: url( "https://pbs.twimg.com/profile_images/1217134273934684160/8nMOZ7s__400x400.jpg" );
+    background-image: url( "../AlterEgoNOPE.png" );
     background-repeat: no-repeat;
     background-position: center 18vh;
     background-size: 400px 400px;
@@ -50,6 +50,7 @@ load {
 
 .alter-ego {
     display: block;
+    font-family: sans-serif;
     font-size: 72pt;
     top: 50%;
     transform: translateY(-50%);
