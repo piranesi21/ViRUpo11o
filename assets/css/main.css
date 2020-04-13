@@ -10,6 +10,7 @@ body {
     -ms-overflow-style: scrollbar;
     overflow-x: hidden;
     overflow-y: auto;
+    background: #FC88B2;
 }
 
 html {
@@ -33,7 +34,7 @@ load {
     top: 50%;
     height: 100vh !important;
     width: 100vw !important;
-    background-image: url( "../AlterEgoNOPE.png" );
+    background-image: url( ../AlterEgoNOPE.svg );
     background-repeat: no-repeat;
     background-position: center 18vh;
     background-size: 400px 400px;
@@ -56,6 +57,7 @@ load {
     transform: translateY(-50%);
     text-shadow: 0 0 5px #000000;
     line-height: 12pt;
+    fill:#8E3F59;
 }
 
 .alter-ego::after {
